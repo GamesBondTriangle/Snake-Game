@@ -14,7 +14,7 @@ A classic Snake Game implemented in Python.
 
 ## Description
 
-This is a simple implementation of the classic Snake Game. 
+This is an implementation of the classic Snake Game. 
 The player controls a snake that moves around the screen, eating food to grow longer. 
 The game ends if the snake collides with the walls or itself. 
 The goal is to achieve the highest possible score by eating as much food as possible.
